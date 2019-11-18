@@ -1,7 +1,8 @@
 {
   "scripts": {
     "test:1": "jest __tests__/1-hello.test.js",
-    "test:2": "jest __tests__/2-comments.test.js"
+    "test:2": "jest __tests__/2-comments.test.js",
+    "test:3": "jest __tests__/3-variables.test.js"
   },
   "jest": {
     "testEnvironment": "node"
