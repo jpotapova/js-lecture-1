@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test:1": "jest __tests__/1-hello.test.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
