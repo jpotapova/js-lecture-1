@@ -1,11 +1,21 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <style>
+      ul {
+        width: 300px;
+      }
+      .highlighted {
+        background: coral;
+      }
+    </style>
+  </head>
   <body>
     <!-- Body content -->
     <ul>
       <li>Carbon</li>
       <li>Hydrogen</li>
-      <li>Magnesium</li>
+      <li class="highlighted">Magnesium</li>
     </ul>
     <table>
       <thead>
@@ -26,16 +36,17 @@
           <td>3</td>
         </tr>
         <tr>
-          <td>Documentary</td>
+          <td id="documentary">Documentary</td>
           <td class="highlighted">11</td>
         </tr>
         <tr>
-          <td>Reality show</td>
+          <td id="show">Reality show</td>
           <td>1</td>
         </tr>
       </tbody>
     </table>
-    <script src="dom.example1.js"></script>
-    <script src="dom.example2.js"></script>
+    <!-- <script src="dom.example1.js"></script>
+    <script src="dom.example2.js"></script> -->
+    <script src="dom.example3.js"></script>
   </body>
 </html>
