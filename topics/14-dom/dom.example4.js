@@ -1,0 +1,1 @@
+// DOM element properties example
