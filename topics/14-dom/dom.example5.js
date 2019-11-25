@@ -1,7 +1,12 @@
-// DOM - remove element
+// DOM attributes
 
-var tr = document.getElementById("show").parentElement;
+var google = document.getElementById("google");
 
-setTimeout(function() {
-  tr.remove();
-}, 1000);
+console.log(google.hasAttribute("href"));
+console.log(google.getAttribute("href"));
+
+google.setAttribute("href", "www.goooogle.com");
+console.log(google.getAttribute("href"));
+
+google.removeAttribute("href");
+console.log(google.getAttribute("href"));

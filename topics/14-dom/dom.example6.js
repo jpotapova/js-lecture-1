@@ -1,12 +1,3 @@
-// DOM - create element
+// DOM - data attributes
 
-var oxygen = document.createElement("li");
-oxygen.innerText = "Oxygen";
-
-var iron = document.createElement("li");
-iron.innerText = "Iron";
-
-setTimeout(function() {
-  document.querySelector("ul").appendChild(oxygen);
-  document.querySelector("li").after(iron);
-}, 1000);
+console.log(document.body.dataset.about);
