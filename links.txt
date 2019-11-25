@@ -1,0 +1,28 @@
+Lecture code examples & tasks
+
+https://github.com/jpotapova/js-lecture-1
+
+https://javascript.info/
+PART 1. Sections:
+1 An Introduction
+2 JavaScript Fundamentals
+4 Objects: the basics
+5 Data types
+
+PART 2. Sections:
+1 Document
+
+MDN
+Reserved words
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
+String Reference
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+Array Reference
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+Solve common problems in your JavaScript code
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Howto
+
+DOM specification
+https://dom.spec.whatwg.org/
+
+
