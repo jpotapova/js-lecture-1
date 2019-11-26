@@ -1,6 +1,7 @@
 /*
   TASK: update line6
   result1 should contain input1 in all capital letters
+  reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 */
 var input1 = "abcdef";
 var result1;

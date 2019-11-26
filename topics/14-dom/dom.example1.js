@@ -1,5 +1,5 @@
 // DOM entry point, access node and read text content
-console.log(document.body.innerText);
+console.log(document.body);
 
 // Single element nav: firstElementChild, nextElementSibling
 console.log(document.body.firstElementChild); // ul
