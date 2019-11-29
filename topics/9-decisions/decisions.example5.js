@@ -1,7 +1,6 @@
 // decisions: switch
 
 var input = "S";
-var result;
 
 switch (input) {
   case "S":

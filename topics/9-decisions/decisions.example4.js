@@ -14,5 +14,5 @@ var isAdult = false;
 !isAdult; // true
 isToddler || isTeen; // true
 isBaby || isToggler; // false
-isTeen && isAdult; // false
+isTeen && isAdult && true; // false
 isTeen && !isAdult; // true

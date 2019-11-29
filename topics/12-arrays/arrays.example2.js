@@ -5,7 +5,7 @@ var names = ["Anne", "Tom", "Bob", "Jane"];
 
 console.log(events.length);
 console.log(events[0]);
-events.push("birthday");
-console.log(events[0]);
-events.pop();
-console.log(events[0]);
+names.push("John");
+console.log(names[0]);
+names.pop();
+console.log(names);

@@ -3,5 +3,5 @@
 var a = 12;
 var b = 5;
 
-console.log(a + b); // 7
-console.log(a.toString() + b.toString()); //25
+console.log(a + b); // 17
+console.log(a.toString() + b.toString()); // 125
